@@ -1,0 +1,165 @@
+body{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    margin: 30px;
+    margin-left: 2em;  
+    background-color: #d8c7f5 !important;
+
+}
+
+.row1{
+background-image: url(../img/foto_inicio.jpg);
+background-position: center;
+padding-top: 10%;
+padding-bottom: 10%;
+margin-left: 9%;
+width: 950px;
+height: 400px;
+justify-content: center;
+align-items: center;
+}
+
+.box img{
+    width: 100%;
+    height: auto;
+  }
+  @supports(object-fit: cover){
+      .box img{
+        height: 50%;
+        object-fit: cover;
+        object-position: center;
+}
+
+nav ul li {
+    
+    vertical-align: middle;
+}    
+
+.nav1 {
+    
+    text-align: right;
+    padding: 1.25rem 4rem;
+    display: block;
+    position: fixed;
+    background-color: #660066 ;
+       
+}
+
+.card-body1{
+    background-color: #660066;
+}
+
+
+.card-title{
+    color: #FFFFFF;
+    margin-top: 10%; 
+    
+}
+
+.boton{
+    text-decoration: #0000000D;
+    background-color: #373A3C;
+}
+
+.col-4{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-weight: 700;
+}
+
+h1{
+    font-weight: lighter;
+    color: #FFFFFF;
+    text-align: center bottom;
+    font-family: kanit;    
+}
+
+.h2{
+     text-align: center;
+    font-size: large;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-weight: 100;
+}    
+
+.active{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.h31{
+    text-align: right;
+    font-weight: lighter;
+}
+
+#h2{
+    text-align: center;
+    font-size: medium;
+    font-family: lobster;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-weight: 100;
+    
+}
+
+.descrip{
+    padding-top: 50xp;
+    text-align: center;
+    
+
+}
+
+.card-body1{
+    background-color: #660066;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 50xp;
+    padding-bottom: 0.5%;
+    margin: 10x 50x;
+    
+}    
+
+.card-header {
+        text-align: center;
+        padding-top: 2%;
+        padding-bottom: 2%;
+}    
+
+p{
+    text-align: center;
+    padding-left: 30%;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.carousel{
+    background-color: rgb(46, 153, 153);
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.p1{
+    font-weight: x-small;
+}
+
+.nav-item{
+    color: #FFFFFF;
+}
+
+.card{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.fab{
+    margin-left: 3%;
+}
+
+.co{
+    text-decoration: none;
+    color: #FFFFFF !important;
+}
